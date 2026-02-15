@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>📌 3rd year AIML student with a growing interest in AI & problem-solving<br>📌 Skilled in Python, C, HTML, CSS ,JS with ongoing practice in DSA<br>📌 Familiar with NumPy and Pandas for data handling & analysis<br>📌 Currently learning ML concepts, Git/GitHub, Flask/FastAPI<br>📌 Open to open-source collaboration and beginner-friendly projects
+<br>📌 3rd year AIML student with a growing interest in AI & problem-solving<br>📌 Skilled in Python, C, HTML, CSS ,JS with ongoing practice in DSA<br>📌 Familiar with NumPy and Pandas for data handling & analysis<br>📌 Currently learning ML concepts, Git/GitHub, Flask/FastAPI<br>📌 Open to open-source collaboration
 
 
 ## 🌐 Socials:
